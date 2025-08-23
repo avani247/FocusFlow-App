@@ -20,7 +20,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.example.focusflow",
+      "bundleIdentifier": "com.avani.focusflow",
       "buildNumber": "1",
       "infoPlist": {
         "UIBackgroundModes": [
@@ -29,7 +29,7 @@
       }
     },
     "android": {
-      "package": "com.example.focusflow",
+      "package": "com.avani.focusflow",
       "versionCode": 1,
       "permissions": [],
       "adaptiveIcon": {
