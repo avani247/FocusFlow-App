@@ -1,0 +1,10 @@
+{
+  "cli": { "version": ">= 4.0.0", "appVersionSource": "remote" },
+  "build": {
+    "testing":    { "android": { "buildType": "apk" }, "ios": {} },
+    "production": { "android": { "buildType": "app-bundle" }, "ios": {} }
+  },
+  "submit": {
+    "production": { "android": { "track": "internal" }, "ios": {} }
+  }
+}
