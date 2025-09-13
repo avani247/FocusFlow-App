@@ -1,3 +1,7 @@
+// MUST be first lines in the app
+import 'react-native-gesture-handler';
+import 'react-native-reanimated';
+
 import React from 'react';
 import { StatusBar } from 'expo-status-bar';
 import { NavigationContainer } from '@react-navigation/native';
